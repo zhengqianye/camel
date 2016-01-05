@@ -12,6 +12,9 @@ package com.hua.constant;
  */
 public interface CamelConstant
 {
+	
+	Integer MIN = 1;
+	
 	Integer MAX = 10;
 	
 	String A = "haha_aahe";
@@ -21,4 +24,6 @@ public interface CamelConstant
 	String A_MASTER_A = "master first a";
 	
 	String A_MASTER_B = "master first b";
+	
+	String phone = "182384283409";
 }
