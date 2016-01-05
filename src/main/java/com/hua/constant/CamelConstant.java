@@ -24,4 +24,6 @@ public interface CamelConstant
 	String A_MASTER_A = "master first a";
 	
 	String A_MASTER_B = "master first b";
+	
+	String phone = "182384283409";
 }
