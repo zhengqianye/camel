@@ -13,4 +13,6 @@ package com.hua.constant;
 public interface CamelConstant
 {
 	String A = "haha_aahe";
+	
+	String A_MASTER = "master first";
 }
