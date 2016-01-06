@@ -16,8 +16,5 @@ public interface CamelConstant
 	Integer MIN = 1;
 	
 	Integer MAX = 10;
-	
-	String A = "haha_aahe";
-
 
 }
