@@ -14,7 +14,5 @@ public interface CamelConstant
 {
 	
 	Integer MIN = 1;
-	
-	Integer MAX = 10;
 
 }
