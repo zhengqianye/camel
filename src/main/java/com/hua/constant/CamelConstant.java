@@ -20,6 +20,5 @@ public interface CamelConstant
 	String A = "haha_aahe";
 	
 	String A_MASTER = "master first";
-	
-	String A_MASTER_A = "master first a";
+
 }
